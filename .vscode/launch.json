@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "(lldb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/g_compropietaris",
+      "args": [
+        "2010"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "preLaunchTask": "make"
+    },
+    {
+      "name": "(gdb) Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/g_compropietaris",
+      "args": [
+        "2010"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "preLaunchTask": "make"
+    }
+  ]
+}

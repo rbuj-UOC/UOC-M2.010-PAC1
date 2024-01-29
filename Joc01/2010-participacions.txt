@@ -1,0 +1,11 @@
+idProp  Nom                                 Email                    Part(fracc)   Part(%)
+-------------------------------------------------------------------------------------------------
+     2  Robert Antoni Buj Gelonch           rbuj@uoc.edu                1/6        16.67%
+    10  Josep Ramon Roca Gelonch            jramon@uoc.edu              1/6        16.67%
+    11  Iolanda Planes Gelonch              iplanes@uoc.edu             1/16        6.25%
+    12  Meritzell Planes Gelonch            mplanes@uoc.edu             1/16        6.25%
+    13  Carmen Gelonch Tapies               cgelonch@uoc.edu            1/4        25.00%
+    14  Tregina Gelonch Tapies              tgelonch@uoc.edu            7/48       14.58%
+    15  Antonia Gelonch Tapies              agelonch@uoc.edu            7/48       14.58%
+-------------------------------------------------------------------------------------------------
+     7 propietaris                                              TOTAL   1/1       100.00%

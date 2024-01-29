@@ -1,0 +1,18 @@
+#nous propietaris
+10; Josep Ramon Roca Gelonch; jramon@uoc.edu
+11; Iolanda Planes Gelonch; iplanes@uoc.edu
+12; Meritzell Planes Gelonch; mplanes@uoc.edu
+13; Carmen Gelonch Tapies; cgelonch@uoc.edu
+14; Tregina Gelonch Tapies; tgelonch@uoc.edu
+15; Antonia Gelonch Tapies; agelonch@uoc.edu
+
+#transmissions
+>1; 2010-05-05; compravenda
+1; 10 : 1/1
+2; 11 : 1/2 & 12 : 1/2
+
+>2; 2010-06-01; compravenda
+3; 13 : 1/1
+
+>3; 2010-07-06; compravenda
+0; 14 : 1/2 & 15: 1/2

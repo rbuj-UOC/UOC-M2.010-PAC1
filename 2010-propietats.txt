@@ -1,0 +1,14 @@
+  .Comentari:	Fitxer de propietats i propietaris de l'any 2010
+
+#propietaris
+.Format: idPropietari; nom i cognoms; email
+2; Robert Antoni Buj Gelonch; rbuj@uoc.edu
+1; Monica Buj Gelonch; mbuj@uoc.edu
+3; Mireia Buj Gelonch; mbuj2@uoc.edu
+
+#propietats
+.Format: numfinca; nom finca; participacio general; propietari: participacio & propietari: participacio
+1; Torre Familiar; 1/2; 1 : 1/3 & 2 : 1/3 & 3 : 1/3
+3; Torre Robert; 1/4; 2 : 1/1
+4; Torre Mireia; 1/8; 3 : 1/1
+2; Torre Monica; 1/8; 1 : 1/1

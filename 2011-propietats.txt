@@ -1,0 +1,11 @@
+#propietaris
+12; Meritzell Planes Gelonch; mplanes@uoc.edu
+13; Carmen Gelonch Tapies; cgelonch@uoc.edu
+14; Tregina Gelonch Tapies; tgelonch@uoc.edu
+15; Antonia Gelonch Tapies; agelonch@uoc.edu
+
+#propietats
+1; Torre Familiar; 1/2; 12 : 1/3 & 22 : 1/3 & 32 : 1/3
+22; Torre Monica; 1/8; 12 : 1/1
+32; Torre Robert; 1/4; 22 : 1/1
+42; Torre Mireia; 1/8; 32 : 1/1
